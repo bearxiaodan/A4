@@ -1,0 +1,1 @@
+python sanity_check.py 1d
